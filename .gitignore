@@ -1,0 +1,20 @@
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/app/config/parameters.yml
+/app/SymfonyRequirements.php
+/bin/
+/build/
+/vendor/
+/web/bundles/
+/web/uploads/
+/composer.phar
+/php-cs-fixer.phar
+
+# Deployment
+/current
+/releases/
+/shared/
+
+# IDE
+/.idea
