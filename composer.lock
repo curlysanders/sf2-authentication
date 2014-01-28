@@ -1148,7 +1148,7 @@
         },
         {
             "name": "symfony/icu",
-            "version": "v1.2.0",
+            "version": "v1.0.0",
             "target-dir": "Symfony/Component/Icu",
             "source": {
                 "type": "git",
@@ -1162,7 +1162,7 @@
                 "shasum": ""
             },
             "require": {
-                "lib-icu": ">=4.4",
+                "lib-icu": ">=4.1",
                 "php": ">=5.3.3",
                 "symfony/intl": "~2.3"
             },
